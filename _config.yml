@@ -1,0 +1,14 @@
+layout_spectrum: 0.5731882392428815
+typography_spectrum: 0.714208859950304
+color:
+  brandStrength: 0.23563241260126233
+  lightness: 0.537261264398694
+  saturation: 0.6229083614889532
+  rhythmicContrast: 0.9318077166099101
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: demoday
